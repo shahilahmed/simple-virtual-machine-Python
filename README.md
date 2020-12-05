@@ -1,4 +1,4 @@
-⁸An extension of the [(split-stack branch) simple VM](https://github.com/parrt/simple-virtual-machine/tree/split-stack) I did that [shahilahmed converted to Python](https://github.com/shahilahmed/simple-virtual-machine-Python). I added `dumpCodeMemory()` to view code memory and assembly
+An extension of the [(split-stack branch) simple VM](https://github.com/parrt/simple-virtual-machine/tree/split-stack) I did that [shahilahmed converted to Python](https://github.com/shahilahmed/simple-virtual-machine-Python). I added `dumpCodeMemory()` to view code memory and assembly
 
 Branches:
 
