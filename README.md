@@ -2,7 +2,7 @@ An extension of the [(split-stack branch) simple VM](https://github.com/parrt/si
 
 Branches:
 
-* [master](https://github.com/parrt/simple-virtual-machine-C/tree/master). This is a straight Python port of the [split-stack branch from Java](https://github.com/parrt/simple-virtual-machine/tree/split-stack).
+* [main] (https://github.com/shahilahmed/simple-virtual-machine-Python).This is a straight Python port of the [split-stack branch from Java](https://github.com/parrt/simple-virtual-machine/tree/split-stack).
 * [c-version] (https://github.com/codyebberson/vm) 
 Run:
 
